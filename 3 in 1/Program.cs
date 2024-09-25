@@ -20,7 +20,7 @@ namespace Tobbelem
         {
             this.szam = p;
         }
-
+         
         public void SetSzamTipus()
         {
             this.isParos = szam % 2 == 0;
